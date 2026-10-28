@@ -6,9 +6,9 @@ Aplicação web interativa desenvolvida durante os estudos de lógica de program
 
 ## 🚀 Tecnologias Utilizadas
 
-* **HTML5**[cite: 3]
-* **CSS3**[cite: 3]
-* **JavaScript (Vanilla)**[cite: 3]
+* **HTML5**
+* **CSS3**
+* **JavaScript (Vanilla)**
 
 ---
 
